@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/85c02770-bfbe-4a50-ac44-f2e06c6c0057
 <br>
 
 # Reflection
-> <i>How does each pathfinding algorithms calculate and prioritize paths?</i><br>
+> <i>How does each pathfinding algorithm calculate and prioritize paths?</i><br>
 <p>
   Answer
 </p>
